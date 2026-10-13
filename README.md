@@ -1,5 +1,6 @@
 # LearnMate AI — Source-Grounded AI Tutor & Adaptive Assessment Engine
-> **Multimodal AI Hackathon 2026 — Track D Submission**  
+> **Multimodal AI Hackathon 2026 — Track D Submission**
+> Demo:https://youtube.com/shorts/z_9HDM20YbI?si=jmplAloKkgnxI1ox
 > Course-Grounded Retrieval-Augmented Generation (RAG), Claim-Level Citation Verification, Bayesian Knowledge Tracing (BKT), and Honest Multimodal Provenance.
 
 ---
